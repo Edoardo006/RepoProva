@@ -152,3 +152,5 @@ $arr = $numeri;
 array_splice($arr, 3, 3); //rimuove 3 elementi dall'indice 3
 var_dump($arr);
 echo "<br><br>";
+
+echo 'Ciao marcello sto per modificare questo file';
